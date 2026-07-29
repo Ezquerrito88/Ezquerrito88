@@ -1,84 +1,80 @@
-<h1 align="center">Hola, soy Adrián Ezquerro 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hola%2C+soy+Adri%C3%A1n+Ezquerro+%F0%9F%91%8B;Full-Stack+Developer+at+Jig;Laravel+%2B+Angular+%2B+Azure+%2B+Docker;Building+AgroConecta+%F0%9F%8C%BE;Clean+Code+%7C+Scalable+Apps+%7C+Cloud+Deployment" alt="Typing intro" />
+</div>
 
-<p align="center">
-  Full-Stack Developer en <b>Jig</b> · Laravel · Angular · Azure · Docker
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Logroño-La%20Rioja-success?style=for-the-badge" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Ezquerrito88&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge" alt="Profile views" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="mailto:daw05.2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/adrianezquerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ezquerrito88&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas" />
-</p>
+  <a href="https://github.com/Ezquerrito88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
-- Trabajo como desarrollador web full-stack en **Jig**.
-- Desarrollé **AgroConecta**, una plataforma de e-commerce agrícola construida con Laravel, Angular, Docker, MySQL y Azure.
-- Me enfoco en arquitectura de software, APIs, despliegue cloud y aplicaciones web escalables.
-- Me gusta construir productos completos, desde el backend hasta la experiencia final del usuario.
+```ts
+const adrian = {
+  role: "Full-Stack Developer @ Jig",
+  location: "Logroño, La Rioja, España",
+  stack: ["Laravel", "Angular", "TypeScript", "PHP", "Docker", "Azure", "MySQL"],
+  currentFocus: ["Arquitectura de software", "Cloud deployment", "Escalabilidad", "APIs"],
+  flagshipProject: "AgroConecta",
+  mindset: "Build fast, build clean, build real products"
+}
+```
 
----
-
-## Stack tecnológico
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-### Base de datos y cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 💼 Trabajo como desarrollador web full-stack en **Jig**.
+- 🌾 He desarrollado **AgroConecta**, una plataforma de e-commerce agrícola full-stack.
+- ☁️ Tengo experiencia real desplegando con **Azure + Docker**.
+- 🧠 Me gusta crear productos bien pensados, mantenibles y con buena UX.
 
 ---
 
-## Proyecto destacado
+## ⚒️ Stack tecnológico
 
-### AgroConecta
-Plataforma de e-commerce agrícola orientada a conectar productores y consumidores con una solución full-stack moderna.
-
-- Frontend en Angular con dashboards y visualización de datos.
-- Backend en Laravel con autenticación y API REST.
-- Despliegue con Docker y Azure.
-- Arquitectura pensada para escalar y evolucionar con nuevas funcionalidades.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,docker,azure,git,github,vscode,postman" alt="Tech stack" />
+</div>
 
 ---
 
-## GitHub
+## 🌿 Proyecto estrella
 
-<p align="center">
-  <a href="https://github.com/Ezquerrito88">
-    <img src="https://img.shields.io/badge/Ver_perfil_de_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
+| Proyecto | Stack | Lo más potente |
+|---|---|---|
+| **AgroConecta** | Angular, Laravel, Docker, MySQL, Azure | Marketplace agrícola, pagos, panel admin, chat en tiempo real, despliegue cloud |
+
+</div>
+
+- Plataforma creada para conectar productores y consumidores sin intermediarios.
+- Arquitectura full-stack con backend API, frontend moderno y despliegue containerizado.
+- Base sólida para seguir creciendo con nuevas funciones y expansión futura.
+
+---
+
+## 🐍 Actividad
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
 ---
 
-## Contacto
+## 📬 Contacto
 
-- Email: [daw05.2025@gmail.com](mailto:daw05.2025@gmail.com)
-- LinkedIn: [linkedin.com/in/adrianezquerro](https://www.linkedin.com/in/adrianezquerro)
-- GitHub: [github.com/Ezquerrito88](https://github.com/Ezquerrito88)
+<div align="center">
+  <a href="mailto:daw05.2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-daw05.2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/adrianezquerro"><img src="https://img.shields.io/badge/LinkedIn-Adri%C3%A1n%20Ezquerro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
