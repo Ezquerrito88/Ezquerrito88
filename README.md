@@ -1,141 +1,84 @@
-<!-- Header animado -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,40:FF6B6B,100:0078D4&height=240&section=header&text=Adrián%20Ezquerro&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Laravel%20%26%20Angular%20·%20Cloud%20%26%20Docker&descAlignY=58&descSize=19" alt="header" />
-</div>
+<h1 align="center">Hola, soy Adrián Ezquerro 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=DD0031&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer+%40+Jig;Laravel+%2B+Angular+Specialist;Azure+%2B+Docker+Deployment;Building+scalable+web+solutions;AgroConecta+creator+%F0%9F%8C%BE" alt="Typing SVG" />
-</div>
+<p align="center">
+  Full-Stack Developer en <b>Jig</b> · Laravel · Angular · Azure · Docker
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezquerrito88&label=Profile%20Views&color=DD0031&style=for-the-badge" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/adrianezquerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center">
   <a href="mailto:daw05.2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Logroño%2C%20La%20Rioja-success?style=for-the-badge" alt="Location" />
-</div>
+  <a href="https://www.linkedin.com/in/adrianezquerro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ezquerrito88&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas" />
+</p>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-```ts
-const adrian = {
-  name: "Adrián Ezquerro",
-  role: "Full-Stack Developer @ Jig",
-  location: "Logroño, La Rioja, España",
-  mainStack: ["Laravel", "Angular", "TypeScript", "PHP"],
-  devOps: ["Docker", "Azure", "Azure Blob Storage"],
-  focus: [
-    "Arquitectura de software",
-    "Aplicaciones web escalables",
-    "E-commerce",
-    "Cloud deployment"
-  ],
-  flagshipProject: "AgroConecta"
-}
-```
-
-- 💼 Actualmente trabajo como desarrollador web full-stack en **Jig**.
-- 🌾 He desarrollado **AgroConecta**, una plataforma de e-commerce agrícola.
-- ☁️ Tengo experiencia desplegando proyectos con Azure + Docker.
-- 🧠 Me gusta diseñar soluciones limpias, escalables y bien estructuradas.
+- Trabajo como desarrollador web full-stack en **Jig**.
+- Desarrollé **AgroConecta**, una plataforma de e-commerce agrícola construida con Laravel, Angular, Docker, MySQL y Azure.
+- Me enfoco en arquitectura de software, APIs, despliegue cloud y aplicaciones web escalables.
+- Me gusta construir productos completos, desde el backend hasta la experiencia final del usuario.
 
 ---
 
-## 🛠️ Stack tecnológico
-
-<div align="center">
+## Stack tecnológico
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend skills" />
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=laravel,php" alt="Backend skills" />
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-### Bases de datos
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database skills" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-
-### DevOps y cloud
-<img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman" alt="DevOps and tools" />
-
-</div>
-
----
-
-## 🌿 Proyecto destacado
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d6a4f,100:52b788&height=100&text=AgroConecta&fontColor=ffffff&fontSize=34&animation=twinkling" alt="AgroConecta" />
-</div>
-
-> Plataforma full-stack de e-commerce agrícola enfocada en conectar productores y consumidores mediante una experiencia moderna, escalable y orientada al rendimiento.
-
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>Angular, dashboards interactivos, ApexCharts, diseño responsive</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Laravel REST API, autenticación OAuth y JWT</td>
-  </tr>
-  <tr>
-    <td><b>Pagos</b></td>
-    <td>Integración PayPal y múltiples métodos de pago</td>
-  </tr>
-  <tr>
-    <td><b>Infraestructura</b></td>
-    <td>Azure App Service, Docker, Azure Blob Storage, ACR</td>
-  </tr>
-  <tr>
-    <td><b>Extras</b></td>
-    <td>Chat en tiempo real, panel admin, notificaciones por email</td>
-  </tr>
-</table>
+### Base de datos y cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📈 GitHub stats
+## Proyecto destacado
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezquerrito88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezquerrito88&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+### AgroConecta
+Plataforma de e-commerce agrícola orientada a conectar productores y consumidores con una solución full-stack moderna.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ezquerrito88&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ezquerrito88&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub trophies" />
-</div>
+- Frontend en Angular con dashboards y visualización de datos.
+- Backend en Laravel con autenticación y API REST.
+- Despliegue con Docker y Azure.
+- Arquitectura pensada para escalar y evolucionar con nuevas funcionalidades.
 
 ---
 
-## 🐍 Snake animation
+## GitHub
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Ezquerrito88">
+    <img src="https://img.shields.io/badge/Ver_perfil_de_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ezquerrito88/Ezquerrito88/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
 
 ---
 
-## 📬 Contacto
+## Contacto
 
-<div align="center">
-  <a href="mailto:daw05.2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-daw05.2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/adrianezquerro"><img src="https://img.shields.io/badge/LinkedIn-Adrián%20Ezquerro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:DD0031,100:2d6a4f&height=120&section=footer" alt="footer" />
-</div>
+- Email: [daw05.2025@gmail.com](mailto:daw05.2025@gmail.com)
+- LinkedIn: [linkedin.com/in/adrianezquerro](https://www.linkedin.com/in/adrianezquerro)
+- GitHub: [github.com/Ezquerrito88](https://github.com/Ezquerrito88)
