@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hola%2C+soy+Adri%C3%A1n+Ezquerro+%F0%9F%91%8B;Full-Stack+Developer+at+Jig;Java+%2B+Laravel+%2B+Angular+%2B+Azure;Building+AgroConecta+%F0%9F%8C%BE;Clean+Code+%7C+Scalable+Apps+%7C+Cloud+Deployment" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hola%2C+soy+Adri%C3%A1n+Ezquerro+%F0%9F%91%8B;Full-Stack+Developer;Java+%2B+Laravel+%2B+Angular+%2B+Azure;Building+AgroConecta+%F0%9F%8C%BE;Clean+Code+%7C+Scalable+Apps+%7C+Cloud+Deployment" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ```ts
 const adrian = {
-  role: "Full-Stack Developer @ Jig",
+  role: "Full-Stack Developer",
   location: "Logroño, La Rioja, España",
   languages: ["Java", "PHP", "TypeScript", "JavaScript", "SQL"],
   frameworks: ["Laravel", "Angular", "Spring Boot"],
@@ -31,7 +31,7 @@ const adrian = {
 }
 ```
 
-- 💼 Trabajo como desarrollador web full-stack en **Jig**.
+- 💼 Trabajo como desarrollador web full-stack.
 - ☕ Programo en **Java** además de PHP, aplicando POO y buenas prácticas de arquitectura.
 - 🌾 He desarrollado **AgroConecta**, una plataforma de e-commerce agrícola full-stack.
 - ☁️ Tengo experiencia real desplegando con **Azure + Docker**.
