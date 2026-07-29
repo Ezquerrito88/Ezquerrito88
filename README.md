@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hola%2C+soy+Adri%C3%A1n+Ezquerro+%F0%9F%91%8B;Full-Stack+Developer+at+Jig;Laravel+%2B+Angular+%2B+Azure+%2B+Docker;Building+AgroConecta+%F0%9F%8C%BE;Clean+Code+%7C+Scalable+Apps+%7C+Cloud+Deployment" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hola%2C+soy+Adri%C3%A1n+Ezquerro+%F0%9F%91%8B;Full-Stack+Developer+at+Jig;Java+%2B+Laravel+%2B+Angular+%2B+Azure;Building+AgroConecta+%F0%9F%8C%BE;Clean+Code+%7C+Scalable+Apps+%7C+Cloud+Deployment" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -22,7 +22,9 @@
 const adrian = {
   role: "Full-Stack Developer @ Jig",
   location: "Logroño, La Rioja, España",
-  stack: ["Laravel", "Angular", "TypeScript", "PHP", "Docker", "Azure", "MySQL"],
+  languages: ["Java", "PHP", "TypeScript", "JavaScript", "SQL"],
+  frameworks: ["Laravel", "Angular", "Spring Boot"],
+  devOps: ["Docker", "Azure", "Git"],
   currentFocus: ["Arquitectura de software", "Cloud deployment", "Escalabilidad", "APIs"],
   flagshipProject: "AgroConecta",
   mindset: "Build fast, build clean, build real products"
@@ -30,6 +32,7 @@ const adrian = {
 ```
 
 - 💼 Trabajo como desarrollador web full-stack en **Jig**.
+- ☕ Programo en **Java** además de PHP, aplicando POO y buenas prácticas de arquitectura.
 - 🌾 He desarrollado **AgroConecta**, una plataforma de e-commerce agrícola full-stack.
 - ☁️ Tengo experiencia real desplegando con **Azure + Docker**.
 - 🧠 Me gusta crear productos bien pensados, mantenibles y con buena UX.
@@ -39,7 +42,7 @@ const adrian = {
 ## ⚒️ Stack tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,docker,azure,git,github,vscode,postman" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,laravel,php,mysql,docker,azure,git,github,vscode,postman" alt="Tech stack" />
 </div>
 
 ---
