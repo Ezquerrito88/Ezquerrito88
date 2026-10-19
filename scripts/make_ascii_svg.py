@@ -14,29 +14,33 @@ OUT = ROOT / "ascii-portrait.svg"
 STATIC = os.environ.get("STATIC") == "1"
 
 RAMP = " .`:-=+*cs#%@"  # claro (disperso) -> oscuro (denso); el espacio limpia el fondo
-COLS = 92
+COLS = 110
 W = 370
 PAD = 14
 BG, BORDER, FG, CURSOR = "#0d1117", "#30363d", "#c9d1d9", "#39d353"
 FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
-GAMMA = 1.15  # >1 aclara medios tonos, <1 los oscurece
+GAMMA = 0.9  # <1 aclara medios tonos, >1 los oscurece
 
 
 def main() -> None:
-    img = Image.open(SRC).convert("L")
+    img = Image.open(SRC).convert("LA")
     char_w = (W - 2 * PAD) / COLS
     line_h = char_w * 1.75          # ~proporción de una celda monoespaciada
     rows = round(COLS * img.height / img.width * char_w / line_h)
-    a = np.asarray(img.resize((COLS, rows), Image.LANCZOS), dtype=np.float32) / 255.0
+    small = np.asarray(img.resize((COLS, rows), Image.LANCZOS), dtype=np.float32) / 255.0
+    a, mask = small[..., 0], small[..., 1] > 0.5
 
-    # Estira el rango del sujeto (ignorando el blanco del fondo)
-    subj = a[a < 0.97]
+    # Estira el rango de brillo del sujeto
+    subj = a[mask]
     if subj.size:
-        lo, hi = np.percentile(subj, 2), np.percentile(subj, 98)
-        a = np.where(a < 0.97, ((a - lo) / max(hi - lo, 1e-3)).clip(0, 1), 1.0)
+        lo, hi = np.percentile(subj, 2), np.percentile(subj, 99)
+        a = ((a - lo) / max(hi - lo, 1e-3)).clip(0, 1)
     a = a ** GAMMA
 
-    idx = ((1.0 - a) * (len(RAMP) - 1)).round().astype(int)
+    # Texto claro sobre fondo oscuro: zonas claras -> caracteres densos.
+    # El sujeto nunca baja de "." para que el pelo oscuro siga marcando el contorno.
+    idx = (1 + a * (len(RAMP) - 2)).round().astype(int)
+    idx[~mask] = 0
     lines = ["".join(RAMP[i] for i in row).rstrip() for row in idx]
 
     H = round(rows * line_h + 2 * PAD)
