@@ -1,8 +1,8 @@
 {
  "username": "Ezquerrito88",
- "total": 52,
- "current_streak": 21,
- "longest_streak": 21,
+ "total": 53,
+ "current_streak": 22,
+ "longest_streak": 22,
  "best_day": {
   "date": "2026-07-29",
   "count": 10,
@@ -21,7 +21,7 @@
   "2026-08": 0,
   "2026-09": 0,
   "2026-10": 16,
-  "2026-11": 8
+  "2026-11": 9
  },
  "days": [
   {
@@ -1851,6 +1851,11 @@
   },
   {
    "date": "2026-11-09",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-10",
    "count": 0,
    "level": 0
   }
